@@ -1,4 +1,4 @@
-https://heromaster137.github.io/LiamIncremental/
+https://flaethegreat.github.io/LiamIncremental/
 
 If anyone finds an issue, PLEASE report it! It's hard for me to be able to test every single minuscule part of the game so I can't find all the bugs. Thanks!
 
